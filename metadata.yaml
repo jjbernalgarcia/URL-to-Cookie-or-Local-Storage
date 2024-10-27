@@ -1,0 +1,5 @@
+homepage: "https://analyticsengine.co/"
+documentation: "https://analyticsengine.co/templates/url-to-cookie-or-local-storage-tag"
+versions:
+  - sha: b641533716a0b3c6678cc4a8ca0304444bfe43d4
+    changeNotes: Initial release.
